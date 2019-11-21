@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 20/03/2019 02:18
+  	Creation date: 21/11/2019 06:52
   	*/
 
 @font-face {
@@ -30,10 +30,13 @@ font-style: normal;
 margin-left: 20px;
 }
 
-.flaticon-ideas:before { content: "\f100"; }
-.flaticon-flasks:before { content: "\f101"; }
-.flaticon-analysis:before { content: "\f102"; }
-.flaticon-ux-design:before { content: "\f103"; }
-.flaticon-web-design:before { content: "\f104"; }
-.flaticon-idea:before { content: "\f105"; }
-.flaticon-innovation:before { content: "\f106"; }
+.flaticon-presentation:before { content: "\f100"; }
+.flaticon-web:before { content: "\f101"; }
+.flaticon-rocket:before { content: "\f102"; }
+.flaticon-intelligent:before { content: "\f103"; }
+.flaticon-developer:before { content: "\f104"; }
+.flaticon-analytics:before { content: "\f105"; }
+.flaticon-graph:before { content: "\f106"; }
+.flaticon-laptop:before { content: "\f107"; }
+.flaticon-analytics-1:before { content: "\f108"; }
+.flaticon-ui:before { content: "\f109"; }

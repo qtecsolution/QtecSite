@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 20/03/2019 02:18
+    Creation date: 21/11/2019 06:52
     */
 
     @font-face {
@@ -37,18 +37,24 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-ideas:before { content: "\f100"; }
-.flaticon-flasks:before { content: "\f101"; }
-.flaticon-analysis:before { content: "\f102"; }
-.flaticon-ux-design:before { content: "\f103"; }
-.flaticon-web-design:before { content: "\f104"; }
-.flaticon-idea:before { content: "\f105"; }
-.flaticon-innovation:before { content: "\f106"; }
+    .flaticon-presentation:before { content: "\f100"; }
+.flaticon-web:before { content: "\f101"; }
+.flaticon-rocket:before { content: "\f102"; }
+.flaticon-intelligent:before { content: "\f103"; }
+.flaticon-developer:before { content: "\f104"; }
+.flaticon-analytics:before { content: "\f105"; }
+.flaticon-graph:before { content: "\f106"; }
+.flaticon-laptop:before { content: "\f107"; }
+.flaticon-analytics-1:before { content: "\f108"; }
+.flaticon-ui:before { content: "\f109"; }
     
-    $font-Flaticon-ideas: "\f100";
-    $font-Flaticon-flasks: "\f101";
-    $font-Flaticon-analysis: "\f102";
-    $font-Flaticon-ux-design: "\f103";
-    $font-Flaticon-web-design: "\f104";
-    $font-Flaticon-idea: "\f105";
-    $font-Flaticon-innovation: "\f106";
+    $font-Flaticon-presentation: "\f100";
+    $font-Flaticon-web: "\f101";
+    $font-Flaticon-rocket: "\f102";
+    $font-Flaticon-intelligent: "\f103";
+    $font-Flaticon-developer: "\f104";
+    $font-Flaticon-analytics: "\f105";
+    $font-Flaticon-graph: "\f106";
+    $font-Flaticon-laptop: "\f107";
+    $font-Flaticon-analytics-1: "\f108";
+    $font-Flaticon-ui: "\f109";

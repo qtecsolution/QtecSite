@@ -9005,7 +9005,7 @@ h1, h2, h3, h4, h5,
     left: 15px; }
     .services-wrap .icon span {
       font-size: 20px;
-      color: #89ecb2; }
+      color: #1b1464; }
       .services-wrap .icon span:first-child {
         opacity: 0; }
       .services-wrap .icon span:last-child {
@@ -9874,3 +9874,9 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+.flaticonlarge {
+    heigh: 70px;
+    width: 70px;
+    font-size: 140px;
+}
